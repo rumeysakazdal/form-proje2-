@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\bin\Debug\proje2form.exe.config
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\bin\Debug\proje2form.exe
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\bin\Debug\proje2form.pdb
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\obj\Debug\proje2form.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\obj\Debug\proje2form.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\obj\Debug\proje2form.Form1.resources
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\obj\Debug\proje2form.Properties.Resources.resources
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\obj\Debug\proje2form.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\obj\Debug\proje2form.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\obj\Debug\proje2form.exe
+C:\Users\ASUS\Desktop\c# kodlama\proje2form\obj\Debug\proje2form.pdb
